@@ -1,0 +1,18 @@
+.root{
+	-fx-background-color: white;
+}
+.button:hover{
+	-fx-font-weight: bold;
+	-fx-border-width:0.5;
+	-fx-border-color: orange;
+	-fx-border-radius: 0;
+	-fx-background-color: black;
+	-fx-text-fill: orange;
+}
+.button{
+	-fx-border-width:0.7;
+	-fx-border-color: black;
+	-fx-background-color: orange;
+	-fx-text-fill: black;
+}
+ 
